@@ -30,7 +30,7 @@ If using the camera, there is no need to enter the location .
 
 ## The SkyStars Wiki! 
 
-[For more explanation ] (https://github.com/nivk99/SkyStars.wiki.git)
+[For more explanation ] (https://github.com/nivk99/SkyStars/wiki)
 
 ## Screenshots
 ### Splash Screen
