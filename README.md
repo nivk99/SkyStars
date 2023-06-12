@@ -28,6 +28,10 @@ If using the camera, there is no need to enter the location .
 4. A list of all the stars will be displayed with circular markers on the image.
 5. Clicking on the image will take you to another screen with more information about the stars.
 
+## The SkyStars Wiki! 
+
+[For more explanation ](https://github.com/nivk99/SkyStars.wiki.git)
+
 ## Screenshots
 ### Splash Screen
 
